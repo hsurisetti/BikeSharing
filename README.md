@@ -34,22 +34,27 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
   The Tableau report shows that there are 2,344,244 total rides and 13,983 bikes in use during the month of August 2019. This averages to 6 trips/ day.
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/BasicData.png" width=400 />
+
 ## Checkout Times for users
+
   Trip Duration per ride : Most of the rides have a duration of 30 minutes or less
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesForUsers.png" width=400 />
 
 ## Checkout times by Gender
+
   The report shows that the serive has been predominatly used by men than women with an approxsimate ratio of 3:1
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesByGender.png" width=400 />
 
 ## Trips by weekday per hour
+
    A Heatmap has been generated to show the status with the peak timings from 7 AM - 9 AM and 4 PM - 7 PM during the weekdays. The weekends seems to be a little bit more evenly distributed.
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripsByWeekdayperHour.png" width=400 />
 
 ## August Peak Hours 
+
  The same above message can also be displayed using bar chart to convey the peak hours.
  
  <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/AugustPeakHours.png" width=400 /> 
@@ -79,16 +84,20 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TopStartingStations.png" width=400 />
 
 ### Top Stations Map
-   A map has been created to show the top stations visually in those respective locations.The top station where the trips made are more than 10,000 is mostly located in lower Manhattan.
+
+   A map has been created to show the top stations visually in the respective locations.The top station where the trips made are more than 10,000 is mostly located in lower Manhattan.
  
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TopStationsMap.png" width=400 />
 
 ### Top users by Age and Ride Duration
+
  The Top user group by ride duration mostly range from 25 to 35 years .There is an odd case where the data showed some spike around 50 years of age which might an exception for this case.
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripDurationByAge.png" width=400/>
 
 ### Number of rides per day
+
+The number of rides seem to be significantly higher on Thursdays, Fridays and Saturdays compared to other days.
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/NumberofRidesPerDay.png" width=400 />
 
@@ -104,6 +113,7 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
  
 ## Some suggestion for future analysis involve, 
   - Comparing the data for different months to determine trends across the year
-  - Including weather data would help in finding correlation between the two as to how whether might influence/ change the bike sharing.
+  - Including weather data would help in finding correlation between the two as to how wheather might influence/ change the bike sharing.
+  - Compare with different states and check the demographics and statistics and determine if it would be appropriate business to open in that state  
 
 
