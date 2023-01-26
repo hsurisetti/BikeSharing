@@ -29,6 +29,11 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
  - Year of Birth
 
   The Trip duration provided was a numeric whole number and we have to change it to represent in DateTime format which has been implemented using Pandas and exported the new processed file to be used for Tableau.
+  
+## The TimeDuration now represented in DateTime Format :
+
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/Python_DateTimeFormat.png" width=400 />
+  
 
 ## NYC CitiBike Basic Data
   The Tableau report shows that there are 2,344,244 total rides and 13,983 bikes in use during the month of August 2019. This averages to 6 trips/ day.
