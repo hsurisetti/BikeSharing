@@ -28,27 +28,37 @@ Software : Python, Jupyter Notebook, Anaconda, Tableau Public
   The Trip duration provided was a numeric whole number and we have to change it to represent in DateTime format which has been implemented using Pandas and exported the new processed file to be used for Tableau.
 
 ## NYC CitiBike Basic Data
-  The Tableau report shows that there are 2,344,244 total rides and 13,983 bikes in use during the month of August 2019. This averages to 6 trips/ day
+  The Tableau report shows that there are 2,344,244 total rides and 13,983 bikes in use during the month of August 2019. This averages to 6 trips/ day.
 
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/BasicData.png" width=400 />
 ## Checkout Times for users
   Trip Duration per ride : Most of the rides have a duration of 30 minutes or less
+
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesForUsers.png" width=400 />
 
 ## Checkout times by Gender
   The report shows that the serive has been predominatly used by men than women with an approxsimate ratio of 3:1
 
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesByGender.png" width=400 />
+
 ## Trips by weekday per hour
    A Heatmap has been generated to show the status with the peak timings from 7 AM - 9 AM and 4 PM - 7 PM during the weekdays. The weekends seems to be a little bit more evenly distributed.
+
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripsByWeekdayperHour.png" width=400 />
 
 ## Trips by weekday by gender per hour
  The report shows that men use the service more than women . Both men and women ride bikes around the same time of the day.
 
-## User Trips by gender  and day of the week
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripsByGender.png" width=400 />
+
+## User Trips by gender  and weekday
   The subscribers are the main users of the system with Make being the highest followed by female. The demographic data also shows some unknown population . But in general the ratio between male and female shows 3:1 
 
-## Top Starting stations
-The top station where the trips made are more than 10,000 is mostly located in lower Manhattan.
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/UserTripsByGenderByWeekday.png" width=400 />
 
-
+## NYC Story Boards
+ A story board has been created to neatly display and present the entire information into one story board
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/NYCStory.png" width=400 />
 
 ## SUMMARY 
   Based on the above reports and statistics , we can see that bike sharing servicce is remarkably popular and busy in metroplitan cities. The user base is mostly male subscribers who use the service most frequently. The main usage is mostly around the morning and evening commute times.
@@ -58,8 +68,21 @@ The top station where the trips made are more than 10,000 is mostly located in l
 ### Top starting stations by Number of Rides
   The top 10 stations shows that each of them had atleast made more than 11 K rides
 
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TopStartingStations.png" width=400 />
+
+### Top Stations Map
+   A map has been created to show the top stations visually in those respective locations.The top station where the trips made are more than 10,000 is mostly located in lower Manhattan.
+ 
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TopStationsMap.png" width=400 />
+
 ### Top users by Age and Ride Duration
  The Top user group by ride duration mostly range from 25 to 35 years .There is an odd case where the data showed some spike around 50 years of age which might an exception for this case.
+
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripDurationByAge.png" width=400/>
+
+### Number of rides per day
+
+<img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/NumberofRidesPerDay.png" width=400 />
 
 ### Summary Description :
 
