@@ -10,6 +10,9 @@ Data Source: Citi Bike Data - 201908-citibike-tripdata.csv.zip
 Software : Python, Jupyter Notebook, Anaconda, Tableau Public
 
 ## Results
+
+LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/profile/hima.s6656/viz/CitiBikeProgram_Assignment15/NYCCityBikeStory?publish=yes)
+
   The Datasource used for this project is from CitiBike System Data Page for the month of August 2019. 
 
  The File has 2.3 million records with the information about the following categories
@@ -45,6 +48,11 @@ Software : Python, Jupyter Notebook, Anaconda, Tableau Public
    A Heatmap has been generated to show the status with the peak timings from 7 AM - 9 AM and 4 PM - 7 PM during the weekdays. The weekends seems to be a little bit more evenly distributed.
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/TripsByWeekdayperHour.png" width=400 />
+
+## August Peak Hours 
+ The same above message can also be displayed using bar chart to convey the peak hours.
+ 
+ <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/AugustPeakHours.png" width=400 /> 
 
 ## Trips by weekday by gender per hour
  The report shows that men use the service more than women . Both men and women ride bikes around the same time of the day.
