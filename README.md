@@ -48,7 +48,7 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
 
 ## Checkout times by Gender
 
-  The report shows that the serive has been predominatly used by men than women with an approxsimate ratio of 3:1
+  The report shows that the serive has been predominatly used by men than women with an approximate ratio of 3:1
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesByGender.png" width=400 />
 
@@ -79,7 +79,7 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/NYCStory.png" width=400 />
 
 ## SUMMARY 
-  Based on the above reports and statistics , we can see that bike sharing servicce is remarkably popular and busy in metroplitan cities. The user base is mostly male subscribers who use the service most frequently. The main usage is mostly around the morning and evening commute times.
+  Based on the above reports and statistics , we can see that bike sharing service is remarkably popular and busy in metroplitan cities. The user base is mostly male subscribers who use the service most frequently. The main usage is mostly around the morning and evening commute times.
 
 ## Some additional visualizations which would be helpful are :
 
@@ -118,7 +118,7 @@ The number of rides seem to be significantly higher on Thursdays, Fridays and Sa
  
 ## Some suggestion for future analysis involve, 
   - Comparing the data for different months to determine trends across the year
-  - Including weather data would help in finding correlation between the two as to how wheather might influence/ change the bike sharing.
+  - Including weather data would help in finding correlation between the two as to how weather might influence/ change the bike sharing.
   - Compare with different states and check the demographics and statistics and determine if it would be appropriate business to open in that state  
 
 
