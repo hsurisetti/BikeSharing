@@ -48,7 +48,7 @@ LINK TO TABLEAU DASHBOARD : [Link to DashBoard](https://public.tableau.com/app/p
 
 ## Checkout times by Gender
 
-  The report shows that the serive has been predominatly used by men than women with an approximate ratio of 3:1
+  The report shows that the service has been predominatly used by men than women with an approximate ratio of 3:1
 
 <img src="https://github.com/hsurisetti/BikeSharing/blob/main/screenshots/CheckoutTimesByGender.png" width=400 />
 
